@@ -4,7 +4,7 @@ This repository contains the codes needed to reproduce the figures in Roman de M
 
 General remarks:
 - The python notebooks (.ipynb) require the auxiliary python (.py) files ro run, these are assumed to be in the same folder as the main script. 
-- Data for 2m-temperature (TREFHT) and precipitation (convective, PRECC, plus large-scale, PRECL), as well as some landmasks, are in the folder "data", assumed to be a subfolder of the folder where the notebooks are run. 
+- Data for 2m-temperature (TREFHT) and precipitation (convective, PRECC, plus large-scale, PRECL), as well as some landmasks, are in the folder "data", assumed to be a subfolder of the folder where the notebooks are run. These data are not saved here due to file size, but can be found under: https://doi.org/10.5281/zenodo.17940938 
 - The intermediate data for the matlab plotscripts (.m) are now in a folder called "intermediate data", but in the scripts it is assumed that these data are directly in the same folder as the matlab scripts.
 
 Fig.1: Time series of global mean surface temperature
